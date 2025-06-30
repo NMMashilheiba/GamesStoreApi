@@ -24,3 +24,9 @@
 /home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.genruntimeconfig.cache
 /home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/ref/GameStore.api.dll
 /home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.sourcelink.json
+/home/mashilheiba/dotNet/GameStore/GameStore.api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/mashilheiba/dotNet/GameStore/GameStore.api/bin/Debug/net8.0/MinimalApis.Extensions.dll
+/home/mashilheiba/dotNet/GameStore/GameStore.api/bin/Debug/net8.0/MiniValidation.dll
+/home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.csproj.AssemblyReference.cache
+/home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.MvcApplicationPartsAssemblyInfo.cs
+/home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/GameStor.41DC94ED.Up2Date
