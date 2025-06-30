@@ -23,3 +23,4 @@
 /home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.pdb
 /home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.genruntimeconfig.cache
 /home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/ref/GameStore.api.dll
+/home/mashilheiba/dotNet/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.sourcelink.json
